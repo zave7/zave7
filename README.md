@@ -37,3 +37,4 @@ Here are some ideas to get you started:
 
 ## 💬 About me
 저는 실력있는 프로그래머가 되기 위해 열심히 달리고 있는 중이에요. 제 깃허브에 방문해주셔서 감사합니다.😄
+블로그 : <https://zave7.github.io/>
