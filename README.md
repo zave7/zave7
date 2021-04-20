@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 <!-- Adding private contributions count to total commits count -->
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zave7&count_private=true)-->
 <!-- Showing icons -->
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zave7&show_icons=true)-->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zave7&show_icons=true)
 <!-- Themes -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zave7&show_icons=true&theme=radical)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zave7&show_icons=true&theme=radical)-->
 <!-- Top Language-->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zave7)](https://github.com/anuraghazra/github-readme-stats)-->
 <!-- Show more languages -->
